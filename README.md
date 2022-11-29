@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radzki-g
-- 👀 I’m interested in mathematical method of optimisation
+- 👀 I’m interested in mathematical method of optimization
 - 🌱 I’m currently learning C++/Python/OPL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
